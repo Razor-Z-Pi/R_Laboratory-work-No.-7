@@ -1,9 +1,9 @@
 # R_Laboratory-work-No.-7 / Лабораторная работа №7
 Working with string data using stringr and rebus packages. / Работа со строковыми данными с помощью пакетов stringr и rebus.
-_
+
 
 Цель работы: научиться работать со строковыми данными с использованием пакетов stringr и rebus. / Purpose of work: to learn how to work with string data using stringr and rebus packages.
-_
+
 
 # Теоретические сведения / Theoretical information
 
